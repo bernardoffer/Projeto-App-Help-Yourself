@@ -1,4 +1,4 @@
-# Aplicativo Help Yourself
+# Aplicativo Help Yourself (Construindo)
 
 O app vem como uma função de facilitar a vida do estudante de vestibular, testes, e concursos. Supondo que você queira fazer a prova para entrar na PRF, porem você abre o site e o mesmo está lotado de informações, confusos, poluido visualmente. O app surge como um compilador de informações, nele vai ter duas funções principais: Resumir informações, e notificar o candidato sobre eventos, datas de provas, cursos, editais, etc... Nele vai ter vai ter todos os tipos de concursos do Brasil, e dentro de cada um vai ter suas inforamções e datas resumindas, e no final da pagina um sininho para o candidato receber notificações sobre assuntos relacionados ao concursos. 
 
