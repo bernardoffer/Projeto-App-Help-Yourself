@@ -14,16 +14,9 @@ De inicio fiz o Design do App pelo figma com uma versão inicial de como será m
 Memória: 500 mb 
 ```
 
-### 🔧 Instalação (Em breve)
-
-
-
-## 🛠️ Construído com (Em Breve)
-
 
 
 
 ## ✒️ Autor
 
 Bernardo Ferreira Ribeiro
-
